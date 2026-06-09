@@ -11,7 +11,7 @@ A worked example of how to organize a Cowork project around a specific person, t
 ### Path 1. Run the demo as-is
 
 1. Download the folder and open it in Cowork (or the chat version of Claude with file access).
-2. Open `GEN AI COURSE PROMPTS CLAUDE COWORK` (or `..._CLAUDE CHAT` if you are not in Cowork). The project instructions are at the top of the file; the prompts follow.
+2. Open `GEN AI COURSE PROMPTS CLAUDE COWORK.pages` (or `GEN AI COURSE PROMPTS_CLAUDE CHAT.pdf` if you are not in Cowork). The project instructions are at the top of the file; the prompts follow.
 3. Paste the project instructions into your project's settings.
 4. Open a new conversation and start with:
 Read everything in this project and commit anything you need to memory before we start.
@@ -48,8 +48,8 @@ How to adapt:
 ├── 06 — Constructive Feedback/
 ├── 07 — Accountability/
 ├── 08 — 30-Day Action Plan/
-├── GEN AI COURSE PROMPTS CLAUDE COWORK      # Project instructions + prompts (Cowork)
-├── GEN AI COURSE PROMPTS_CLAUDE CHAT        # Project instructions + prompts (Claude Chat)
+├── GEN AI COURSE PROMPTS CLAUDE COWORK.pages # Project instructions + prompts (Cowork)
+├── GEN AI COURSE PROMPTS_CLAUDE CHAT.pdf     # Project instructions + prompts (Claude Chat)
 └── README.md
 ```
 
