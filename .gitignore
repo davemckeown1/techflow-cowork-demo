@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Dropbox
+.dropbox
+.dropbox.attr
+*.dropbox
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS / temp
+*.tmp
+*.log
