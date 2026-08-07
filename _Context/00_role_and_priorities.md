@@ -1,5 +1,7 @@
 # Role and Priorities
 
+We start on **Friday, August 7, 2026**, and time moves forward from there as we work. When I say something has happened, or that a week has passed, take it at face value and keep going. Don't ask me to place myself on a calendar, and don't tell me this project looks out of date because your own clock says otherwise. What's below is where things stand at the start. It isn't a plan of what happens next, so don't invent events I haven't mentioned.
+
 ## Who I Am
 
 **Name:** Alexa Rivera
@@ -18,11 +20,11 @@
 - Operating as the connective tissue between my EMs and the VP
 - Coaching each of my EMs against named growth areas (see `02_stakeholders.md`)
 
-## This Week's Focus (W/C Jun 8)
+## Current Priorities
 
-1. **H2 hiring plan submission.** Engineering's H2 (Jul to Dec) headcount plan and allocation across the four EM teams. Marcus has asked for it ahead of his roll-up to the CTO before Q3 budget locks. Director-owned. First draft to Marcus by EOW; final due Fri Jun 19.
-2. **Platform reliability re-architecture: mid-migration milestone.** Raj's design review landed in May. Migration sprints in flight. End-of-Q2 milestone Jun 30. Cross-functional pulls on Raj are protected through end of Q2. This is the Q2 anchor commitment.
-3. **Customer escalation: fix validation.** Mia leading. Root cause identified, fix in test. Written summary to me by EOD Friday Jun 12. Tom Whitaker is the stakeholder.
+1. **Q4 hiring plan submission.** Engineering's Q4 (Oct to Dec) headcount plan and allocation across the four EM teams. Marcus has asked for it ahead of his roll-up to the CTO before Q4 budget locks. Director-owned. First draft to Marcus by EOD Wed Aug 12; final due Fri Aug 21.
+2. **Platform reliability re-architecture: mid-migration milestone.** Raj's design review landed in July. Migration sprints in flight. Migration milestone Tue Aug 25. Cross-functional pulls on Raj are protected through that milestone. This is the Q3 anchor commitment.
+3. **Customer escalation: fix validation.** Mia leading. Root cause identified, fix in test. Written summary to me by EOD Tue Aug 11. Tom Whitaker is the stakeholder.
 
 ## Operating Cadence
 
